@@ -1,0 +1,4 @@
+{
+    plugins => [ qw/ConditionalRedirect/ ],
+    plug_redirect => sub { time() % 2 ? 'http://google.com/' : undef },
+}
