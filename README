@@ -1,8 +1,8 @@
 App-ZofCMS-Plugin-ConditionalRedirect
 
-The module is a plugin for L<App::ZofCMS>. It provides means to redirect user to pages
-depending on certain conditions, e.g. some key having a value in ZofCMS Template hashref or
-anything else, really.
+The module is a plugin for L<App::ZofCMS>. It provides means to
+redirect user to pages depending on certain conditions, e.g. some key
+having a value in ZofCMS Template hashref or anything else, really.
 
 
 INSTALLATION
